@@ -1,7 +1,12 @@
+# CLI TASK MANAGER APPLICATION
+
 The following program executes a basic task manager using the command line
 Please review the internal_README.md file for more indepth information.
 The following program was an assignment to be completed for the front-end role.
 Please create a symbolic link as mentioned in the internal_README.md file.
+
+The task.test.js contains 16 test cases written with jest to check the functionality of the program.
+The following program passed all the test cases provided.
 
 External modules used:
 -> It uses the 'file system' module of node to read from and write to files.
